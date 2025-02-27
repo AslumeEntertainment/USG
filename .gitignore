@@ -74,8 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Untracked Plugins - managed manually
-Plugins/EOS-SDK-32303053-v1.16.3/
-Plugins/OnlineSubsystemRedpointEOS-Free-2024.07.10-5.4-d38aba9d/
+
 
 # Garbage
 *.html
