@@ -4,3 +4,6 @@
 [submodule "Plugins/AslumeSteamAPI"]
 	path = Plugins/AslumeSteamAPI
 	url = https://github.com/AslumeEntertainment/AslumeSteamAPI.git
+[submodule "Plugins/AslumeGeneralNetworking"]
+	path = Plugins/AslumeGeneralNetworking
+	url = https://github.com/AslumeEntertainment/AslumeGeneralNetworking.git
