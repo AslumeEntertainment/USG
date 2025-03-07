@@ -1,6 +1,9 @@
 [submodule "Plugins/SurvivalGamePlugin"]
 	path = Plugins/SurvivalGamePlugin
 	url = https://github.com/AslumeEntertainment/SurvivalGamePlugin.git
-[submodule "Plugins/AdvancedSessionsPlugin"]
-	path = Plugins/AdvancedSessionsPlugin
-	url = https://github.com/mordentral/AdvancedSessionsPlugin.git
+[submodule "Plugins/AslumeSteamAPI"]
+	path = Plugins/AslumeSteamAPI
+	url = https://github.com/AslumeEntertainment/AslumeSteamAPI.git
+[submodule "Plugins/AslumeGeneralNetworking"]
+	path = Plugins/AslumeGeneralNetworking
+	url = https://github.com/AslumeEntertainment/AslumeGeneralNetworking.git
