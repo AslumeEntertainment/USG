@@ -19,8 +19,8 @@
 			]
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
+			"Name": "AslumeGeneralNetworking",
+			"Enabled": false
 		}
 	]
 }
