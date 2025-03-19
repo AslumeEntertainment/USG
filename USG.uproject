@@ -21,6 +21,14 @@
 		{
 			"Name": "AslumeGeneralNetworking",
 			"Enabled": false
+		},
+		{
+			"Name": "Raboti",
+			"Enabled": false
+		},
+		{
+			"Name": "SurvivalGamePlugin",
+			"Enabled": false
 		}
 	]
 }
